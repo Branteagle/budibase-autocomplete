@@ -23,6 +23,11 @@
         "key": "placeholder"
       },
       {
+        "type": "event",
+        "label": "On Change",
+        "key": "onChange"
+          },
+      {
         "type": "validation/string",
         "label": "Validation",
         "key": "validation"
